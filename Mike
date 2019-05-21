@@ -13,14 +13,24 @@ Our aim is to develop and product that will automatically water plants with mini
 to make it easier for people to grow their own ingredients or just to have plants for aesthetic
 purposes around the house. Our vision is set on creating something transportable and easy to setup and use. 
 We also think aesthetics are very important, as every home and person are different, our product
-should have a range of designs that can be chosen from to match the users kitchen / style. The device
-should be ergonomic in style and have minimal intrusion to its surroundings.
+should have a range of designs that can be chosen from to match the users style. The device
+should be ergonomic in shape and have minimal intrusion to its surroundings.
 
+The device will be run from a raspberry pi 3 mini computer, this will be the brains of the system and is 
+going to regulate the plant and make sure it stays alive and watered. We envision that the product will be a
+pot plant with variable size options, with the tech embedded in a compartment on one of the pots sides, 
+the device will come with a power cord and instruction manual.
 
 
 -=-=-=-=- Motivation
 
+Our motivation for this project is the lack of greenery in the modern home, there are not enough people growing their
+own food and veg, so we are trying to solve this by incorporating growing into an easy, portable solution that
+can instantly be setup and used. We find this project interesting as it combines two very different interests into one,
+it combines herbalism and technology to give the user something easy to use and non intimidating to get started with.
 
+In the current IT Market, alot of these similar ideas come up, companies are trying to find products that can assist in 
+everyday life with the help of automation / technology,
 
 -=-=-=-=- Landscape
 
